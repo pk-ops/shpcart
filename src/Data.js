@@ -36,7 +36,7 @@ const data={
             id:4,
             img:img4,
             title:'Popular Items',
-            rating:'🌟🌟🌟🌟🌟',
+            rating:'🌟🌟🌟🌟',
             price:'40.00',
         },
         {
@@ -50,7 +50,7 @@ const data={
             id:6,
             img:img6,
             title:'Special Items',
-            rating:'🌟🌟🌟🌟🌟',
+            rating:'🌟🌟🌟🌟',
             price:'20.00',
         },
         {
@@ -64,7 +64,7 @@ const data={
             id:8,
             img:img8,
             title:'Popular Items',
-            rating:'🌟🌟🌟🌟🌟',
+            rating:'🌟🌟🌟🌟',
             price:'40.00',
         }
     ],

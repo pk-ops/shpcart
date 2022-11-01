@@ -20,7 +20,7 @@ export function CardsItems(props) {
               {props.title}
             </h5></div>
             <div className=' card-text rating'>
-                <p className="rating card-text text-center">🌟🌟🌟🌟🌟</p>
+                <p className="rating card-text text-center">🌟🌟🌟🌟🌟{props.rating}</p>
             </div>
           <div className='card-text mt-2'> <p className="card-text text-center">
            $ {props.price}
