@@ -19,6 +19,9 @@ export function CardsItems(props) {
             <h5 className="card-text text-center">
               {props.title}
             </h5></div>
+            <div className='Rating'>
+                🌟🌟🌟🌟🌟
+            </div>
           <div className='card-text mt-2'> <p className="card-text text-center">
            $ {props.price}
           </p></div>
