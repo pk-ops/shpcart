@@ -19,8 +19,8 @@ export function CardsItems(props) {
             <h5 className="card-text text-center">
               {props.title}
             </h5></div>
-            <div className='Rating'>
-                <p className="rating text-center">{props.rating}</p>
+            <div className=' card-text rating'>
+                <p className="rating card-text text-center">{props.rating}</p>
             </div>
           <div className='card-text mt-2'> <p className="card-text text-center">
            $ {props.price}
